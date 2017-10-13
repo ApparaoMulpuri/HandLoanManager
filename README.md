@@ -1,9 +1,9 @@
 # InterestCalculator
-In India, most of the folks provide the money to the lenders on interest basis. This app is for track the money with the iOS app.
+In India, most of the folks provide the money to the Borrowers on interest basis. This app is for track the money with the iOS app.
 
 ## Application Screens
 
-### Main Screen with the list of Barrowers
+### Main Screen with the list of Borrowers
 ![alt text](https://github.com/ApparaoMulpuri/InterestCalculator/blob/master/Screen%20Shot%202017-10-13%20at%206.08.18%20PM.png)
 
 ### Detail screen displayed with Money, Interest and Duration details
