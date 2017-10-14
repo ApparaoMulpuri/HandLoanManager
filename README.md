@@ -1,5 +1,7 @@
-# InterestCalculator
-In India, most of the folks provide the money to the Borrowers on interest basis. This app is for track the money with the iOS app.
+# HandLoanManager
+In India, most of the folks provide the money to the Borrowers on interest basis. This iOS app is for track the money to whom they have given and track them with the Interest.
+
+Usually most of the people would give to the folks with 24% ROI to the borrowers. This app allows you to change to different interest rates in the details screen.                                  
 
 ## Application Screens
 
